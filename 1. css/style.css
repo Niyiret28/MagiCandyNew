@@ -34,4 +34,5 @@ header{
 .error404-gif img{
     margin-top: 20px;
     width: 400px;
+    border-radius: 10px;
 }
