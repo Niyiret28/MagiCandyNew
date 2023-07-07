@@ -38,3 +38,30 @@ header{
     border-radius: 10px;
 
 }
+
+/*  Error 500  */
+
+
+
+.error500-body {
+    text-align: center;
+    align-items: center;
+}
+
+.error-h1 {
+    margin-top: -10px;
+    color: var(--text-color);
+    font-size: 180px;
+}
+
+.error-p {
+    color: var(--text-color);
+}
+
+.error500-gif img{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    width: 500px;
+    border-radius: 10px;
+
+}
